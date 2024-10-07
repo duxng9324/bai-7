@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 0,
+		"liveServer.settings.multiRootWorkspaceName": null,
+		"liveServer.settings.CustomBrowser": "chrome"
+	},
+	"extensions": {
+		"recommendations": [
+			"ritwickdey.liveserver"
+		]
+	}
+}
